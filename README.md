@@ -13,4 +13,4 @@ I have also added some extra functionality:
 3. Green bubbles lose 100 points
 4. Theme music playing in background
 
-LICENSE:  The original code is copyrighted under the book licence and so I assume that if you are using this exercise that you have already purchased the book and want to improve on the skills you have gained.  My additions are in the public domain.
+LICENSE:  The original code is copyrighted under the book licence and so I assume that if you are using this exercise that you have already purchased the book and want to improve on the skills you have gained.  My additions are in the public domain.  Music file is from a copyright free website.
